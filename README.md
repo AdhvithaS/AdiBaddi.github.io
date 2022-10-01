@@ -1,2 +1,2 @@
-# AdiBaddi.github.io
+# AdhvithaS.github.io
 resume website
